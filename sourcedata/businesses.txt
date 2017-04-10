@@ -1,0 +1,50 @@
+1,Diamond Nexus Labs,54543623,70129,4
+2,Walmart.com,39047809,97193,18
+3,L.L. Bean Inc.,36481612,62273,28
+4,U.S. Auto Parts Network,24907897,41354,10
+5,Oriental Trading Co. Inc.,75675333,36202,1
+6,Jomashop.com ,88533711,62579,6
+7,Nutrisystem Inc.,11103423,12826,10
+8,Abercrombie & Fitch Co.,18939194,29867,16
+9,FTD Group Inc.,63316386,23561,3
+10,National Business Furniture,83238556,62816,29
+11,King Arthur Flour Co. Inc.,15742820,25157,5
+12,NBTY Inc.,79634216,37631,28
+13,Lowe's Cos. Inc.,83656068,89739,15
+14,The Gymboree Corp.,70738577,18482,8
+15,Foot Locker Inc.,75132175,8548,14
+16,CableOrganizer.com Inc.,73642411,59844,18
+17,PC Mall Inc.,94785453,99325,14
+18,Disney Shopping Inc.,37827526,92186,24
+19,Computer Geeks,64921640,74019,12
+20,American Apparel Inc.,51226323,93963,11
+21,B&H Photo-Video-Pro Audio,30289706,97227,23
+22,Meijer Inc.,40071238,32243,29
+23,Altrec.com Inc.,66334206,73845,18
+24,Net Direct Merchants,43372634,14662,28
+25,47St. Photo,21240438,18593,3
+26,Cooking.com Inc.,62951949,76172,28
+27,Green Mountain Coffee Roasters Inc.,72520698,95670,12
+28,Dermstore LLC,94000137,9455,20
+29,Limoges Jewelry,36242814,26172,21
+30,Joann.com,15221485,75357,4
+31,Living Direct Inc.,23236210,96099,20
+32,PC Connection Inc.,87386432,77812,26
+33,Brookstone Inc.,76004515,31534,2
+34,Skechers USA Inc.,73792819,59050,25
+35,Everything2go.com LLC,84283939,4737,9
+36,PersonalizationMall.com,45631574,96987,14
+37,The Home Depot Inc.,22928882,52696,17
+38,Bed Bath & Beyond Inc.,79930754,76497,3
+39,Levi Strauss & Co.,48437538,56603,23
+40,Beachbody LLC,67497867,98561,11
+41,Cooking.com Inc.,53796814,27383,9
+42,1 Sale A Day LLC,37121559,50427,10
+43,Super Warehouse,62312137,39162,15
+44,Fossil Inc.,81188116,92771,26
+45,BJ's Wholesale Club,90271044,37000,2
+46,Onlineshoes.com,81116584,69958,22
+47,Whiteflash,86094544,26412,14
+48,Oakley Inc.,33452077,63154,26
+49,Ancestry.com Inc.,76638831,13573,1
+50,TrollandToad.com,73268057,24634,22

@@ -1,0 +1,200 @@
+New York City,NY
+Los Angeles,CA
+Chicago,IL
+Houston,TX
+Phoenix,AZ
+Philadelphia,PA
+San Antonio,TX
+San Diego,CA
+Dallas,TX
+San Jose,CA
+Detroit,MI
+Jacksonville,FL
+Indianapolis,IN
+San Francisco,CA
+Columbus,OH
+Austin,TX
+Fort Worth,TX
+Memphis,TN
+Charlotte,NC
+Baltimore,MD
+El Paso,TX
+Milwaukee,WI
+Boston,MA
+Seattle,WA
+Nashville,TN
+Denver,CO
+Washington,DC
+Las Vegas,NV
+Louisville,KY
+Portland,OR
+Oklahoma City,OK
+Tucson,AZ
+Atlanta,GA
+Albuquerque,NM
+Fresno,CA
+Long Beach,CA
+Sacramento,CA
+Mesa,AZ
+Kansas City,MO
+Cleveland,OH
+Virginia Beach,VA
+Omaha,NE
+Miami,FL
+Oakland,CA
+Tulsa,OK
+Minneapolis,MN
+Colorado Springs,CO
+Raleigh,NC
+Honolulu,HI
+Arlington,TX
+Wichita,KS
+St. Louis,MO
+Santa Ana,CA
+Tampa,FL
+Anaheim,CA
+Cincinnati,OH
+Bakersfield,CA
+Aurora,CO
+Pittsburgh,PA
+Toledo,OH
+Riverside,CA
+Stockton,CA
+Corpus Christi,TX
+Newark,NJ
+Anchorage,AK
+Lexington,KY
+St. Paul,MN
+Buffalo,NY
+Plano,TX
+Glendale,AZ
+Fort Wayne,IN
+Henderson,NV
+Lincoln,NE
+Greensboro,NC
+St. Petersburg,FL
+Chandler,AZ
+Jersey City,NJ
+New Orleans,LA
+Norfolk,VA
+Scottsdale,AZ
+Birmingham,AL
+Madison,WI
+Orlando,FL
+Baton Rouge,LA
+Chesapeake,VA
+Garland,TX
+Durham,NC
+Laredo,TX
+Chula Vista,CA
+Lubbock,TX
+Winston-Salem,NC
+Reno,NV
+Hialeah,FL
+North Las Vegas,NV
+Akron,OH
+Gilbert,AZ
+Rochester,NY
+Arlington,VA
+Montgomery,AL
+Modesto,CA
+Boise,ID
+Fremont,CA
+Irvine,CA
+Spokane,WA
+Richmond,VA
+Shreveport,LA
+Irving,TX
+San Bernardino,CA
+Yonkers,NY
+Des Moines,IA
+Glendale,CA
+Tacoma,WA
+Grand Rapids,MI
+Huntington Beach,CA
+Augusta,GA
+Mobile,AL
+Moreno Valley,CA
+Little Rock,AR
+Columbus,GA
+Amarillo,TX
+Oxnard,CA
+Fort Lauderdale,FL
+Knoxville,TN
+Fontana,CA
+Salt Lake City,UT
+Newport News,VA
+Jackson,MS
+Tempe,AZ
+Worcester,MA
+Brownsville,TX
+Providence,RI
+Fayetteville,NC
+Huntsville,AL
+Ontario,CA
+Aurora,IL
+Rancho Cucamonga,CA
+Santa Clarita,CA
+Chattanooga,TN
+Overland Park,KS
+Tallahassee,FL
+Oceanside,CA
+Garden Grove,CA
+Vancouver,WA
+Grand Prairie,TX
+Cape Coral,FL
+Rockford,IL
+Dayton,OH
+Springfield,MO
+Santa Rosa,CA
+Pomona,CA
+Salem,OR
+Sioux Falls,SD
+Port St. Lucie,FL
+Corona,CA
+Springfield,MA
+Eugene,OR
+Pembroke Pines,FL
+Peoria,AZ
+Paterson,NJ
+Pasadena,TX
+Hampton,VA
+Joliet,IL
+Lancaster,CA
+Salinas,CA
+Pasadena,CA
+Naperville,IL
+Hollywood,FL
+Kansas City,KS
+Torrance,CA
+Hayward,CA
+Palmdale,CA
+Lakewood,CO
+Alexandria,VA
+Syracuse,NY
+Bridgeport,CT
+Escondido,CA
+Orange,CA
+Warren,MI
+Fort Collins,CO
+Fullerton,CA
+Mesquite,TX
+Elk Grove,CA
+Sunnyvale,CA
+Savannah,GA
+Sterling Heights,MI
+McAllen,TX
+Coral Springs,FL
+Cedar Rapids,IA
+Elizabeth,NJ
+Columbia,SC
+Hartford,CT
+New Haven,CT
+Carrollton,TX
+Thousand Oaks,CA
+Topeka,KS
+West Valley City,UT
+El Monte,CA
+Waco,TX
+Cary,NC
+Bellevue,WA
